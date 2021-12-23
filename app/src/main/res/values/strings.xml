@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DueDate</string>
+    <string name="add_event">Add Event</string>
+    <string name="event_name">Task Name</string>
+    <string name="event_date">Task Due Date</string>
+    <string name="event_time">Task Time</string>
+    <string name="event_name_hint">Name</string>
+    <string name="event_desc_hint">Description</string>
+    <string name="priority_h">High</string>
+    <string name="priority_m">Medium</string>
+    <string name="priority_l">Low</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save_task">Save</string>
+    <string name="view_task_name">Task Name</string>
+    <string name="view_priority">Priority</string>
+    <string name="mark_as_complete">Mark as Complete</string>
+    <string name="cancel">Cancel</string>
+</resources>
